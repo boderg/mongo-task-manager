@@ -6,3 +6,15 @@
 	line-height: 2;
 	color: white;
 }
+
+.switch label input[type=checkbox]:checked+.lever {
+	background-color: #8bc34a;
+}
+
+.switch label input[type=checkbox]:checked+.lever:after {
+    background-color: #33691e;
+}
+
+.datepicker-date-display {
+	background-color: #33691e;
+}
