@@ -27,3 +27,7 @@
 	margin: 5px;
 	line-height: 42px;
 }
+
+.card-panel {
+	margin: 5rem auto;
+}
